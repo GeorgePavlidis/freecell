@@ -1,4 +1,3 @@
-#FREECELL 
 the freecell finds the solusion of the game freecell with one of the next algorithms: breadth-fs, depth-fs, best-fs, astar:
 
 to run execute : freecell <method> <input-file> <output-file>
